@@ -6,10 +6,18 @@ Proyecto realizado en **React** , utilice **useState** , **useEffect**, **LocalS
 
 ## Imagenes demo
 
-![screenshoot]()
+Inicio de la app
 
-![screenshoot]()
+![screenshot](https://raw.githubusercontent.com/eapepe0/Control-Gastos/main/screenshoot0.jpg)
 
-![screenshoot]()
+Ingresamos los gastos 
 
-![screenshoot]()
+![screenshot](https://raw.githubusercontent.com/eapepe0/Control-Gastos/main/screenshot1.jpg)
+
+Modal
+
+![screenshot](https://raw.githubusercontent.com/eapepe0/Control-Gastos/main/screenshot2.jpg)
+
+Filtros
+
+![screenshot](https://raw.githubusercontent.com/eapepe0/Control-Gastos/main/screenshot3.jpg)
