@@ -3,6 +3,9 @@
 
 Proyecto realizado en **React** , utilice **useState** , **useEffect**, **LocalStorage** , **gestos Swipe** , **ProgressControlBar** , **filtramos datos** , **eliminamos** y **agregamos**.
 
+## Deploy
+
+[Link a la pagina](https://wondrous-hotteok-e10213.netlify.app/)
 
 ## Imagenes demo
 
